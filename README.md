@@ -1,6 +1,3 @@
-Sure, here's the provided text converted into a markdown format suitable for a `README.md` file:
-
-```markdown
 # Auth Library
 
 This library provides basic authentication functionality including user registration, login, and token-based authentication using AWS DynamoDB and JSON Web Tokens (JWT).
