@@ -17,10 +17,7 @@ This library provides basic authentication functionality including user registra
 ## Installation
 
 Ensure you have Node.js installed. You can then use this library by importing it into your project.
-
-```bash
-npm install auth-lib
-```
+download or clone repo and import the functions to your application.
 
 ## Usage
 
